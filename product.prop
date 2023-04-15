@@ -1,2 +1,5 @@
 # Fluence
 ro.vendor.audio.sdk.fluencetype=fluence
+
+# Project-Elixir Stuff
+org.elixir.device=Redmi Note 10 Pro
